@@ -1,0 +1,16 @@
+input {
+  margin-top: 40px;
+  height: 40px;
+  width: 450px;
+  margin-right: 20px;
+  font-size: 22px;
+  font-family: "Bebas Neue", cursive;
+}
+
+button {
+  cursor: pointer;
+  height: 42px;
+  width: 80px;
+  font-size: 18px;
+  font-family: "Bebas Neue", cursive;
+}

@@ -1,0 +1,26 @@
+.theList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+}
+ul :hover {
+  cursor: grabbing;
+}
+li {
+  display: inline-block;
+  content: "";
+  display: inline-block;
+  height: 120px;
+  width: 120px;
+  /* background-size: 50px; */
+  /* background-image: url("https://www.pngkey.com/png/full/204-2045715_muscle-man-fit-men.png"); */
+  /* background-repeat: no-repeat; */
+  margin: 15px;
+  font-size: 50px;
+  /* display: flex;
+  flex-direction: row; */
+}

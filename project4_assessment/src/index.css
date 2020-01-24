@@ -1,0 +1,22 @@
+html {
+  background-image: url("https://cdn.pixabay.com/photo/2016/04/02/20/36/valley-of-fire-1303597_960_720.jpg");
+  background-size: cover;
+}
+body {
+  margin: 0;
+  padding: 50px;
+
+  font-family: "Bebas Neue", cursive;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
